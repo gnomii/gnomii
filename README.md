@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 
-## Hi there 👋
+## Hello 👋
 
 <!--
 **gnomii/gnomii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
